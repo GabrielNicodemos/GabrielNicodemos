@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hello World 👋
+### Sou Gabriel Nicodemos
 
-<!--
-**GabrielNicodemos/GabrielNicodemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Desenvolvedor Front-End na [Stefanini](https://stefanini.com/)
 
-Here are some ideas to get you started:
+👨‍🎓 Estudande de Análise e Desenvolvimento de Sistemas na [BandTec](http://www.digitalschool.com.br/faculdade/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Em constante evolução! 
+
+[![Readme Card](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-nicodemos-860a6b139/)
+
+
+## Skills
+
+![Readme Card](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Readme Card](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Readme Card](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Readme Card](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Readme Card](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=whit)
+![Readme Card](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Readme Card](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Readme Card](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielNicodemos&repo=Website-LeedsBR)](https://github.com/GabrielNicodemos/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielNicodemos&repo=Portfolio-Gabriel-Eduardo)](https://github.com/GabrielNicodemos/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielNicodemos&layout=compact)](https://github.com/gabrielNicodemos/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielNicodemos&show_icons=true&theme=dracula)
