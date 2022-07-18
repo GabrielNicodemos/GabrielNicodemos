@@ -1,9 +1,9 @@
 ### Hello World 👋
 ### Sou Gabriel Nicodemos
 
-👨‍💻 Desenvolvedor Front-End na [Stefanini](https://stefanini.com/)
+👨‍💻 Desenvolvedor Front-End na [Xipp Seguros](https://www.linkedin.com/company/xippseguros/mycompany/)
 
-👨‍🎓 Estudande de Análise e Desenvolvimento de Sistemas na [BandTec](http://www.digitalschool.com.br/faculdade/)
+👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas na [SPTech Digital School](https://www.sptech.school/)
 
 🚀 Em constante evolução! 
 
