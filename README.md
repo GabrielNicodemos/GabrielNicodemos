@@ -23,7 +23,7 @@
 
 ## Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielNicodemos&repo=Website-LeedsBR)](https://github.com/GabrielNicodemos/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielNicodemos&repo=pokedex)](https://github.com/GabrielNicodemos/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielNicodemos&repo=Portfolio-Gabriel-Eduardo)](https://github.com/GabrielNicodemos/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielNicodemos&layout=compact)](https://github.com/gabrielNicodemos/github-readme-stats)
