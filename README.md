@@ -21,10 +21,10 @@
 
 ## Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielNicodemos&repo=the-members-flix)](https://github.com/GabrielNicodemos/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielNicodemos&repo=list-user-react)](https://github.com/GabrielNicodemos/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielNicodemos&repo=pokedex)](https://github.com/GabrielNicodemos/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielNicodemos&repo=app-beber-agua)](https://github.com/GabrielNicodemos/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielNicodemos&repo=the-members-flix)](https://github.com/GabrielNicodemos/the-members-flix)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielNicodemos&repo=list-user-react)](https://github.com/GabrielNicodemos/list-user-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielNicodemos&repo=pokedex)](https://github.com/GabrielNicodemos/pokedex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielNicodemos&repo=app-beber-agua)](https://github.com/GabrielNicodemos/app-beber-agua)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielNicodemos&layout=compact)](https://github.com/gabrielNicodemos/github-readme-stats)
