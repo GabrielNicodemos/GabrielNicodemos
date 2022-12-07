@@ -21,7 +21,8 @@
 ![Readme Card](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielNicodemos&repo=todo-list)](https://github.com/GabrielNicodemos/posts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielNicodemos&repo=pomodoro-timer)](https://github.com/GabrielNicodemos/pomodoro-timer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielNicodemos&repo=todo-list)](https://github.com/GabrielNicodemos/todo-list)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielNicodemos&repo=posts)](https://github.com/GabrielNicodemos/posts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielNicodemos&repo=todo-vue)](https://github.com/GabrielNicodemos/todo-vue)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielNicodemos&repo=list-user-react)](https://github.com/GabrielNicodemos/list-user-react)
